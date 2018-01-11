@@ -1,0 +1,16 @@
+<?php echo $this->tag->form("index/saveAdmin");?>
+<p>
+    <label for="username">用户名</label>
+    <?php echo $this->tag->textField("username");?>
+</p>
+<p>
+    <label for="username">密码</label>
+    <?php echo $this->tag->textField("password");?>
+</p>
+<p>
+    <?php echo $this->tag->submitButton("添加");?>
+</p>    
+<p>
+    <?php echo $this->tag->linkTo("index/getAdmin","查看列表");?>
+</p>
+<?php echo $this->tag->endForm();?>

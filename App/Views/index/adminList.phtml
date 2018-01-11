@@ -1,0 +1,51 @@
+<?php
+    echo $this->tag->searchField(["username","size"=>20,"placeholder"=>"请输入用户名","title"=>"请输入用户名"]);
+    echo "&nbsp;&nbsp;&nbsp;";
+    echo $this->tag->submitButton(["检索","size"=>20,"id"=>"search"]);
+?>
+
+<pre>
+<table width="70%" style="border:1px solid #999" border="1" cellspacing="0" cellpadding="0" id="adminList">
+    <thead>
+        <tr>
+            <th>序号</th>
+            <th>用户名</th>
+            <th>密码</th>
+            <th>创建时间</th>
+            <th>操作</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr v-for="item in items"> 
+            <td>{{item.id}}</td> 
+            <td>{{item.username}}</td> 
+            <td>{{item.password}}</td> 
+            <td>{{item.create_time}}</td> 
+            <td>
+                <?php echo $this->tag->linkTo("index/deleteAdmin/{$list->current}/{$row['id']}", "删除");?>
+                <?php echo $this->tag->linkTo("index/getAdminById/{$list->current}/{$row['id']}", "修改");?>
+                <?php echo $this->tag->linkTo("index/getAdminById/{$list->current}/{$row['id']}", "详情");?>
+            </td> 
+        </tr> 
+        <tr v-if="loaded==true && items.length > 0">
+            <td colspan="5">
+                <?php
+                    echo $this->tag->linkTo("index/getAdmin/{$list->first}","首页&nbsp; &nbsp; ");
+                    echo $this->tag->linkTo("index/getAdmin/{$list->before}","上一页&nbsp; &nbsp; ");
+                    echo $this->tag->linkTo("index/getAdmin/{$list->next}","下一页&nbsp; &nbsp; ");
+                    echo $this->tag->linkTo("index/getAdmin/{$list->last}","尾页&nbsp; &nbsp; ");
+                ?>
+                <lable>当前第<?php echo $list->current; ?>页&nbsp; &nbsp;</lable>
+                <lable>共<?php echo $list->total_pages; ?>页</lable>
+            </td>
+        </tr>
+        <tr v-if="loaded==false"> 
+            <td colspan="5" class="text-center">正在加载数据......</td> 
+        </tr> 
+        <tr v-if="loaded==true && items.length==0"> 
+            <td colspan="5" class="text-center">暂无数据</td> 
+        </tr> 
+    </tbody>
+</table>
+<?php echo $this->tag->linkTo("index/index","返回");?>

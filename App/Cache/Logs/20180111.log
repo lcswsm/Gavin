@@ -1,0 +1,140 @@
+[Thu, 11 Jan 18 08:37:20 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0.035000085830688
+[Thu, 11 Jan 18 08:37:40 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:35:01 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0.00099992752075195
+[Thu, 11 Jan 18 09:37:25 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0.0010001659393311
+[Thu, 11 Jan 18 09:40:18 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:42:35 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:42:45 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:44:05 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:44:23 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:44:51 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:45:09 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:45:11 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:46:15 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:46:58 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:47:00 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:47:00 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:47:00 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:47:00 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:57:06 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:57:19 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:57:22 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:57:23 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 09:57:23 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 10:12:26 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0.00099992752075195
+[Thu, 11 Jan 18 11:13:55 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:14:29 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:16:45 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:17:05 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:17:58 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:18:27 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:18:51 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:19:23 +0800][DEBUG] SELECT `ad`.`id` AS `id`, `ad`.`username` AS `username`, `ad`.`password` AS `password`, `adi`.`name` AS `name`, `adi`.`age` AS `age`, `ad`.`create_time` AS `create_time` FROM `phal_admin` AS `ad`  LEFT JOIN `phal_admin_info` AS `adi` ON `adi`.`admin_id` = `ad`.`id`  0
+[Thu, 11 Jan 18 11:26:05 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0.0010001659393311
+[Thu, 11 Jan 18 11:26:05 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:26:05 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0
+[Thu, 11 Jan 18 11:26:57 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:26:57 +0800][DEBUG] DESCRIBE `phal_admin`  0.0039999485015869
+[Thu, 11 Jan 18 11:26:57 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0
+[Thu, 11 Jan 18 11:26:58 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:26:58 +0800][DEBUG] DESCRIBE `phal_admin`  0.002000093460083
+[Thu, 11 Jan 18 11:26:58 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] DESCRIBE `phal_admin`  0.002000093460083
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:26:59 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0.00099992752075195
+[Thu, 11 Jan 18 11:27:14 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:27:14 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:27:14 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1 LIMIT 1  0
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] DESCRIBE `phal_admin`  0.002000093460083
+[Thu, 11 Jan 18 11:27:39 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:27:40 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:27:40 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:27:40 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:27:40 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:27:40 +0800][DEBUG] DESCRIBE `phal_admin`  0.002000093460083
+[Thu, 11 Jan 18 11:27:40 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:28:36 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:28:36 +0800][DEBUG] DESCRIBE `phal_admin`  0.002000093460083
+[Thu, 11 Jan 18 11:28:36 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:29:08 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0.00099992752075195
+[Thu, 11 Jan 18 11:29:08 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:29:08 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:29:22 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0.00099992752075195
+[Thu, 11 Jan 18 11:29:22 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:29:22 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0.0010001659393311
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] DESCRIBE `phal_admin`  0.002000093460083
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:30:10 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:30:25 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:30:25 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:30:25 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:30:37 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:30:37 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:30:37 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 11  0
+[Thu, 11 Jan 18 11:30:56 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:30:56 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:30:56 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 1  0
+[Thu, 11 Jan 18 11:31:10 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:31:10 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:31:10 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin`  0.0010001659393311
+[Thu, 11 Jan 18 11:31:29 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0.00099992752075195
+[Thu, 11 Jan 18 11:31:29 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:31:29 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin`  0
+[Thu, 11 Jan 18 11:31:42 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:31:42 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:31:42 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 11:33:27 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:27 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:33:27 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0.00099992752075195
+[Thu, 11 Jan 18 11:33:29 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:29 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:33:29 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 11:33:30 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:30 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:33:30 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0.00099992752075195
+[Thu, 11 Jan 18 11:33:31 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:31 +0800][DEBUG] DESCRIBE `phal_admin`  0.0029997825622559
+[Thu, 11 Jan 18 11:33:31 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0.0010001659393311
+[Thu, 11 Jan 18 11:33:41 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:41 +0800][DEBUG] DESCRIBE `phal_admin`  0.0029997825622559
+[Thu, 11 Jan 18 11:33:41 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0.0010001659393311
+[Thu, 11 Jan 18 11:33:42 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:42 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:33:42 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 11:33:43 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:43 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 11:33:43 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0.00099992752075195
+[Thu, 11 Jan 18 11:33:44 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:33:44 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:33:44 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 11:41:18 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 11:41:18 +0800][DEBUG] DESCRIBE `phal_admin`  0.0019998550415039
+[Thu, 11 Jan 18 11:41:18 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 13:08:32 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0.0010001659393311
+[Thu, 11 Jan 18 13:08:32 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 13:08:32 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 13:08:33 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 13:08:33 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 13:08:33 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0
+[Thu, 11 Jan 18 13:08:34 +0800][DEBUG] SELECT IF(COUNT(*) > 0, 1, 0) FROM `INFORMATION_SCHEMA`.`TABLES` WHERE `TABLE_NAME` = 'phal_admin' AND `TABLE_SCHEMA` = DATABASE()  0
+[Thu, 11 Jan 18 13:08:34 +0800][DEBUG] DESCRIBE `phal_admin`  0.003000020980835
+[Thu, 11 Jan 18 13:08:34 +0800][DEBUG] SELECT `phal_admin`.`id`, `phal_admin`.`username`, `phal_admin`.`password`, `phal_admin`.`create_time` FROM `phal_admin` WHERE `phal_admin`.`id` = 5  0

@@ -1,0 +1,17 @@
+<?php echo $this->tag->form("index/updateAdmin");?>
+<p>
+    <label for="username">姓名</label>
+    <?php echo $this->tag->textField("username");?>
+</p>
+<p>
+    <label for="username">年龄</label>
+    <?php echo $this->tag->textField("password");?>
+</p>
+    <?php echo $this->tag->hiddenField("id");?>
+<p>
+    <?php echo $this->tag->submitButton("提交");?>
+</p>    
+<p>
+    <?php echo $this->tag->linkTo("index/getAdmin","查看列表");?>
+</p>
+<?php echo $this->tag->endForm();?>

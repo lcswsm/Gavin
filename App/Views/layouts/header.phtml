@@ -1,0 +1,12 @@
+<?php echo $this->tag->getDoctype();?>
+<html>
+    <head>
+        <title>这里是测试系统</title>
+    <?php echo $this->tag->stylesheetLink("Css/Main.css"); ?>
+    </head>
+    <body>
+        
+    <?php echo $this->getContent(); ?>
+    </body>
+    <?php $this->assets->outputJs() ?>
+</html>
